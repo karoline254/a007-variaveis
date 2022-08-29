@@ -1,6 +1,7 @@
 
 //const nome = "Karoline"
 //let idade = 27
+
 //console.log(nome, typeof nome, idade,  typeof idade)
 
 let nome = prompt("Qual o seu nome?")
